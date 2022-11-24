@@ -28,3 +28,5 @@ for (let i = 0; i < notas.length; i++) {
 /* mostra a quantiade de itens inseridos na lista */
 const media = soma / notas.length;
 console.log(media);
+
+/* depurar = debugar */
